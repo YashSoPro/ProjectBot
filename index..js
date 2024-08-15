@@ -1,4 +1,4 @@
-const { Client, Intents } = require('discord.js');
+vconst { Client, Intents } = require('discord.js');
 const fs = require('fs');
 const path = require('path');
 
